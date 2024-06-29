@@ -1,0 +1,10 @@
+transformers
+langchain-core
+langchain-community
+sentence-transformers
+flask
+pandas
+nltk
+streamlit
+selenium
+pillow
